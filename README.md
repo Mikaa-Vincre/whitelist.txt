@@ -1,2 +1,2 @@
-# whitelist.txt
-NOT NAME
+
+#NOT NAME
