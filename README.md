@@ -1,0 +1,2 @@
+# whitelist.txt
+NOT NAME
